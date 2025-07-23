@@ -1,0 +1,6 @@
+
+app.get("/, fungsiget)
+
+fungsiget(req,res){
+    res.send("hello world")
+}
