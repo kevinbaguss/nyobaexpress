@@ -15,7 +15,7 @@ const kendaraan = [
   { id: 3, kendaraan: "pesawat", userid: 3 },
   { id: 4, kendaraan: "yatch", userid: 1 },
 ];
-// tambah di array kendaraan ada user id jadi untuk membuat kendaraan user perlu mengirimkan user id nya
+// tambah di array kendaraan ada user id jadi untuk membuat kendaraan user perlu mengirimkan user id nya 
 //jika user id yang dikirmkan user tidak ditemukan dalam array user maka kirimkan respon "id user tidak ditemukan"
 
 //delete edit dan get
